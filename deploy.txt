@@ -1,0 +1,1 @@
+scp D:\github\kishan_setu\target\kishan_setu-0.0.1-SNAPSHOT.jar kishan_setu@4.247.159.148:/home/kishan_setu /// secure a copy
